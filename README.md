@@ -15,5 +15,5 @@ NodeJs 16.15.0 and later.
 <img height="160" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.0.0/files/assets/logo-3d.webp">
 
 ## Document
-[GetNude API](https://getnude.gitbook.io/getnude-v1.0-api-reference)
+[GetNude API](https://getnude.gitbook.io/getnude-v1.0-api-reference)  &ensp;   [Official website](https://getnude.app)
 
