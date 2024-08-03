@@ -3,7 +3,7 @@ const sign = require('../sign');
 const config = require('../config');
 
 let data = {
-  "file_base64": "Your base64 string",
+  "file_base64": "Your base64 string", // The field needs to contain: data:image/jpeg;base64
   "timestamp": Date.now(),
   "merchant_no": config.merchant_no,
   "mode": "nude",
